@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Dictionary-header {
+  text-align: center;
+  padding: 2rem;
+  background-color: gray;
+  height: 100vh;
+}
+
+.input {
+  margin: 2rem auto;
+}
+.results {
+  padding: 5rem 0;
+  width: 60%;
+  margin: 0 auto;
+  background-color: rgb(182, 180, 180);
+  border-radius: 10px;
+}
